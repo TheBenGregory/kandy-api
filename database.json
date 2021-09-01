@@ -1,0 +1,135 @@
+{
+    "locations": [
+        {
+            "id": 1,
+            "city": "Nashville"
+        },
+        {
+            "id": 2,
+            "city": "Tuscon"
+        },
+        {
+            "id": 3,
+            "city": "Detroit"
+        },
+        {
+            "id": 4,
+            "city": "Memphis"
+        },
+        {
+            "id": 5,
+            "city": "Chattanooga"
+        },
+        {
+            "id": 6,
+            "city": "Bozeman"
+        },
+        {
+            "id": 7,
+            "city": "Seattle"
+        },
+        {
+            "id": 8,
+            "city": "Lake Havisu"
+        },
+        {
+            "id": 9,
+            "city": "Laramie"
+        },
+        {
+            "id": 10,
+            "city": "Boise"
+        }
+    ],
+    "products": [
+        {
+            "id": 1,
+            "name": "Lemondrops"
+        },
+        {
+            "id": 2,
+            "name": "Licorice"
+        }
+    ],
+    "employees": [
+        {
+            "id": 1,
+            "name": "Benny Cartwright"
+        },
+        {
+            "id": 1,
+            "name": "Sarah Walsh"
+        },
+        {
+            "id": 1,
+            "name": "Laura Braun"
+        },
+        {
+            "id": 1,
+            "name": "Jean Jacobs"
+        },
+        {
+            "id": 1,
+            "name": "Gene Walter"
+        },
+    ],
+    "productTypes": [
+        {
+            "id": 1,
+            "productId": 1,
+            "type": "Hard"
+        },
+        {
+            "id": 2,
+            "productId": 2,
+            "type": "Soft"
+        }
+    ],
+    "customers": [
+        {
+            "id": 1,
+            "name": "Lonnie Russel",
+            "phoneNumber": "1-252-945-1427"
+        },
+        {
+            "id": 2,
+            "name": "Ignacio Cummerata",
+            "phoneNumber": "332-820-0704"
+        },
+        {
+            "id": 3,
+            "name": "Donna Corwin",
+            "phoneNumber": "1-637-982-5657"
+        },
+        {
+            "id": 4,
+            "name": "Clark Wilderman",
+            "phoneNumber": "(712) 446-8464"
+        },
+        {
+            "id": 5,
+            "name": "Cesar Harris",
+            "phoneNumber": "223-841-3400"
+        },
+        {
+            "id": 6,
+            "name": "Marlene O'Reilly",
+            "phoneNumber": "1-933-790-6530"
+        },
+        {
+            "id": 7,
+            "name": "Rosemary Gibson",
+            "phoneNumber": "(214) 348-3223"
+        }
+    ],
+    "purchases": [
+        {
+            "id": 1,
+            "productsPurchased": "Lemondrops",
+            "locationId": 3 ,
+            "customerId": 4,
+            "totalSale": "25.00",
+            "soldById": 3
+        }
+    ]
+}
