@@ -46,55 +46,55 @@
             "id": 1,
             "name": "Lemondrops",
             "price": 1.99,
-            "productTypeID": 1
+            "productTypeId": 1
         },
         {
             "id": 2,
             "name": "Licorice",
             "price": 3.25,
-            "productTypeID": 2
+            "productTypeId": 2
         },
         {
             "id": 3,
             "name": "Milk Duds",
             "price": 1.99,
-            "productTypeID": 2
+            "productTypeId": 2
         },
         {
-            "id": 2,
+            "id": 4,
             "name": "Werthers",
             "price": 2.50,
-            "productTypeID": 1
+            "productTypeId": 1
         },
         {
-            "id": 2,
+            "id": 5,
             "name": "Toblerone",
             "price": 9.75,
-            "productTypeID": 4
+            "productTypeId": 4
         },
         {
-            "id": 2,
+            "id": 6,
             "name": "Big League Chew",
             "price": 2.15,
-            "productTypeID": 3
+            "productTypeId": 3
         },
         {
-            "id": 2,
+            "id": 7,
             "name": "Air Heads",
             "price": 0.75,
-            "productTypeID": 2
+            "productTypeId": 2
         },
         {
-            "id": 2,
+            "id": 8,
             "name": "Dots",
             "price": 1.50,
-            "productTypeID": 2
+            "productTypeId": 2
         },
         {
-            "id": 2,
+            "id": 9,
             "name": "Goo Goo Cluster",
             "price": 1.99,
-            "productTypeID": 4
+            "productTypeId": 4
         }
     ],
     "employees": [
@@ -131,12 +131,12 @@
             "type": "Chewy"
         },
         {
-            "id": 2,
+            "id": 3,
             "productId": 3,
             "type": "Gum"
         },
         {
-            "id": 2,
+            "id": 4,
             "productId": 4,
             "type": "Chocolate"
         }
