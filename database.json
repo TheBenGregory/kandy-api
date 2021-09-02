@@ -23,22 +23,6 @@
         {
             "id": 6,
             "city": "Bozeman"
-        },
-        {
-            "id": 7,
-            "city": "Seattle"
-        },
-        {
-            "id": 8,
-            "city": "Lake Havisu"
-        },
-        {
-            "id": 9,
-            "city": "Laramie"
-        },
-        {
-            "id": 10,
-            "city": "Boise"
         }
     ],
     "products": [
@@ -100,23 +84,78 @@
     "employees": [
         {
             "id": 1,
-            "name": "Benny Cartwright"
+            "name": "Benny Cartwright",
+            "locationId": 2
         },
         {
             "id": 2,
-            "name": "Sarah Walsh"
+            "name": "Sarah Walsh",
+            "locationId": 3
         },
         {
             "id": 3,
-            "name": "Laura Braun"
+            "name": "Laura Braun",
+            "locationId": 3
         },
         {
             "id": 4,
             "name": "Jean Jacobs"
+            ,"locationId": 6
         },
         {
             "id": 5,
             "name": "Gene Walter"
+            ,"locationId": 1
+        },
+        {
+            "id": 6,
+            "name": "Dewey Veum",
+            "locationId": 2
+        },
+        {
+            "id": 7,
+            "name": "Marcella Hammes",
+            "locationId": 3
+        },
+        {
+            "id": 8,
+            "name": "Charlie Wunsch",
+            "locationId": 3
+        },
+        {
+            "id": 9,
+            "name": "Otis Rempel"
+            ,"locationId": 4
+        },
+        {
+            "id": 10,
+            "name": "Kerry O'Hara"
+            ,"locationId": 3
+        },
+        {
+            "id": 11,
+            "name": "Laverne Goodwin",
+            "locationId": 2
+        },
+        {
+            "id": 12,
+            "name": "Sammy Dickinson",
+            "locationId": 3
+        },
+        {
+            "id": 13,
+            "name": "Brandon Schoen",
+            "locationId": 2
+        },
+        {
+            "id": 14,
+            "name": "Laurie Cormier"
+            ,"locationId": 5
+        },
+        {
+            "id": 15,
+            "name": "Carol Hettinger"
+            ,"locationId": 6
         }
     ],
     "productTypes": [
